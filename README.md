@@ -1,2 +1,1 @@
-# DK_BOMB_CB2
-VERSION 2
+https://github.com/Fink-Marcia/DK_BOMB_CB2
